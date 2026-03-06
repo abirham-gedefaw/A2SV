@@ -8,6 +8,6 @@ class Solution:
                 n += 1   
             if n == 3:
                 return nums[i]
-        if n<3:
+        if n < 3:
             return nums[0]
         
