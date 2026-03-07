@@ -11,6 +11,7 @@ A2SV | DSA Solutions Repository
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A2SV | DSA Solutions Repository
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -32,10 +34,12 @@ A2SV | DSA Solutions Repository
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
