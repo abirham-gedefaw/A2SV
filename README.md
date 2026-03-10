@@ -11,6 +11,7 @@ A2SV | DSA Solutions Repository
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
+| [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -25,6 +26,7 @@ A2SV | DSA Solutions Repository
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
+| [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -63,4 +65,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
